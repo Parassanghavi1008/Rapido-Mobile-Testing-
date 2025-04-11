@@ -93,7 +93,7 @@ This project focuses purely on **manual testing** of the Rapido web application.
 
 ## Test Plan  
 The **Test Plan** outlines the full testing strategy, features under test, schedule, and deliverables.  
-📄 [Test Plan Document](https://docs.google.com/document/d/18QMxeUn1zCOouSUOilEDfRasjg9HMqhUYoxkVI10_LI/edit?usp=sharing)
+📄 [Test Plan Document](https://docs.google.com/document/d/1rPrDFEvpaXsXti9_Ht78xk90ji4do7sSkHYJjZnbPVE/edit?usp=sharing)
 
 ---
 
