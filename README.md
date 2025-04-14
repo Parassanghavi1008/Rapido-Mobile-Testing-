@@ -1,6 +1,11 @@
 # Rapido-Mobile-Testing-
   
-<img src="https://drive.google.com/uc?export=view&id=1wOGsd_f-LfFNq7IxkPCzaCOlGw6-Loye" alt="Rapido Logo" width="150">
+- **Homepage**  
+  
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1p7afJDZmEx8UoG_sPWhBT3vAr3jRejt0" alt="Workwise" width="1050">
+</p>
+
 
 
 ### Introduction  
