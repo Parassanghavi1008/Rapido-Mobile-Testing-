@@ -123,7 +123,7 @@ Summarizes tested features, outcomes, bugs found, and overall stability of the R
 
 ## Mind Map  
 Visual overview of the testing scope, test paths, and interlinked features.  
-🧠 [Mind Map View](#)
+🧠 [Mind Map View](https://drive.google.com/file/d/1mxvc0jFxfzpotU9COv-wH_oFEHX_-mUx/view?usp=sharing)
 
 ---
 
