@@ -117,18 +117,18 @@ All bugs were logged with reproduction steps and severity to help developers fix
 
 ## Test Summary Report  
 Summarizes tested features, outcomes, bugs found, and overall stability of the Rapido web app.  
-📘 [Test Summary Report](https://docs.google.com/document/d/1j7LDgQ1QKYEi_PX2k6xgmo-PjJ9geRR7GUQddFbmWWs/edit?usp=sharing)
+📘 [Test Summary Report](https://docs.google.com/document/d/1zKcs5EbAirPzXB5EMDrkMcTERWESjw4xjYEvoAXA4G4/edit?usp=sharing)
 
 ---
 
 ## Mind Map  
 Visual overview of the testing scope, test paths, and interlinked features.  
-🧠 [Mind Map View](https://drive.google.com/file/d/1BtMEr8vF0d0q48BHco6HDwfo1Vt45lmM/view?usp=sharing)
+🧠 [Mind Map View](#)
 
 ---
 
 ## Video Walkthrough  
-🎥 [Project Demo on YouTube](https://www.youtube.com/watch?v=BEvPJLAs3B0)
+🎥 [Project Demo on YouTube](#)
 
 ---
 
