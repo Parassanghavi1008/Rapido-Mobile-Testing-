@@ -17,6 +17,11 @@
 To perform **Functional** and **Usability Testing** on the **Rapido Web Application**, validate UI/UX consistency, and ensure cross-browser compatibility and performance efficiency.
 
 ---
+## Services 
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1yiMoJA9Xbyuq16lRgTqvrEnjat8XFndJ" alt="Workwise" width="1050">
+</p>
+---
 
 ## Tech Stack used in this Project  
 
